@@ -2,7 +2,7 @@
 //  GameMenuScene.swift
 //  GagRoll
 //
-//  Created by Maneesh Madan on 17/01/18.
+//  Created by Aditya Sharma on 17/01/18.
 //  Copyright © 2018 Aditya. All rights reserved.
 //
 
